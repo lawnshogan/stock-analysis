@@ -30,7 +30,7 @@ Within this subroutine, it's important to activate our spreadsheet for the analy
 Once this formatted, I moved onto creating an array of all the tickers in column A from each sheet.
 - I then used a ROWcount (found online) to loop over this column.
 
-####                                              **The fun begins...**
+## **The fun begins...**
 
 **1a)** This portion of the code uses Dim to assign variable 0 to tickerIndex as an Integer since it's a whole number.
 
