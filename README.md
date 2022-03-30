@@ -48,17 +48,17 @@ We now want to create a script that increases the current tickerVolumes (stock t
 
 **4)**Finally, it's time to Loop through the arrays to output the Ticker, Total Daily Volume, and Return.
 
-
-
-
-
-
-
-
-
 <p align="center">
-  <img src="https://github.com/lawnshogan/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png" width="700"/>
+  <img src="https://github.com/lawnshogan/stock-analysis/blob/main/Code%20Block%20VBA.png" width="700"/>
 </p>
+
+
+
+
+
+
+
+
 
 From here, Louise needed to know about the outcomes based on goals. Creating a new table, I was able to create ranges and use the =Countifs formula to create a summary of outcomes based on pledged dollars for 'play' related Kickstarter Campaigns.
 
