@@ -91,13 +91,18 @@ When running the code for 2018 (0.08 seconds runtime), the results told a differ
 2. ENPH amd RUN also have the top 2 in total daily volume.
 3. DQ, FSLR, JKS, SPWR all had losses of over -35%.
 
-Based on these results, I might personally want to invest in DQ and SEDG based on the difference in their gains/losses. 
+Based on these results, and as an extremely unqualified tax spcialist, I might personally want to invest in DQ and SEDG based on the difference in their gains/losses. 
 - DQ had almost a 200% return in 2017 compared to a -62.6% in 2018. Lets hope for a better 2019. 
 - SEDG exceeded expectations in 2017 and gained 184.5% in returns, compared to a -7.8% loss in 2018.
 
 Hopefully his family does not lose all their money.
 
-### **Challenges**
+### **Summary**
 
+After refactoring the code for this assignment, it made me realize that although it can be tedious, frustrating and time consuming, it is more efficent to refactor code that's already been created than to start from scratch. Someone has already created the code you need (most likely). Your job is to find it and make it work with your project. 
 
+I found myself taking code I found on Google and applying it to my module, however I found it very easy to get confused unless you are only working with one part of the code at a time. I found it was easier taking a larger, complete block of code and edit off that, rather than try and piece together multiple sources of code. 
 
+Another disadvantage I found was how many different ways there are to do one task. Sometimes piecing together code can cause conflict and this defenetly set me back at times. 
+
+Regarding the refactored VBA script, I think it was helpful for the pieces before 1a and after 4. Your sheet is already formatted and ready to go. Copying it over is easy and allows you to direct your attention to the other portions of code we haven't tested, or even created yet.
