@@ -91,7 +91,7 @@ When running the code for 2018 (0.08 seconds runtime), the results told a differ
 2. ENPH amd RUN also have the top 2 in total daily volume.
 3. DQ, FSLR, JKS, SPWR all had losses of over -35%.
 
-Based on these results, and as an extremely unqualified tax specialist, I might personally want to invest in DQ and SEDG based on the difference in their gains/losses. 
+Based on these results, and as an extremely unqualified stock specialist, I might personally want to invest in DQ and SEDG based on the difference in their gains/losses. 
 - DQ had almost a 200% return in 2017 compared to a -62.6% in 2018. Lets hope for a better 2019. 
 - SEDG exceeded expectations in 2017 and gained 184.5% in returns, compared to a -7.8% loss in 2018.
 
