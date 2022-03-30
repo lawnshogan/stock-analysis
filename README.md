@@ -8,6 +8,9 @@
 
 <p align="center">
     STUDY GROUP FOR MODULE 2
+</p>
+
+ <p align="center">  
     Ryan Knauff, Cayli Swartz, Marshall Miley, Lora Leonida
 </p>
 
