@@ -46,7 +46,7 @@ We now want to create a script that increases the current tickerVolumes (stock t
 
 **3d)** Used to increase the tickerIndex by 1 when the next cell ticker doesn't match current cell ticker 
 
-**4)**Finally, it's time to Loop through the arrays to output the Ticker, Total Daily Volume, and Return.
+**4)** Finally, it's time to Loop through the arrays to output the Ticker, Total Daily Volume, and Return.
 
 <p align="center">
   <img src="https://github.com/lawnshogan/stock-analysis/blob/main/Code%20Block%20VBA.png" width="700"/>
