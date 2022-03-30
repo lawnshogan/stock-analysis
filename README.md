@@ -53,7 +53,7 @@ We now want to create a script that increases the current tickerVolumes (stock t
 **4)** Finally, it's time to Loop through the arrays to output the Ticker, Total Daily Volume, and Return.
 
    <p align="center">
-   **Final Code**
+   Final Code
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ We now want to create a script that increases the current tickerVolumes (stock t
 </p>
 
 
-With that being said, Steve is not going to care about our code. Steve is looking for cold hard results that are easy to read and interpret.
+With that being said, Steve is not going to care about our code. Steve is looking for cold hard results that are easy to read and interpret. As I said above, his family's financial future is in my hands.
 - When the code is entered, a pop-up instructs the user to choose what year they wish to get results for.
 - Enter 2017 and the following results appear:
 
@@ -77,29 +77,25 @@ With that being said, Steve is not going to care about our code. Steve is lookin
 
 ### **Results**
 
+### 2017:
+After the code ran for 0.07 seconds, the results for 2017 showed the following:
 
+1. TERP was the only stock which would have produced a negative return (-7.2%).
+2. FSLR had the largest daily volume and was 4th in returns. 
+3. DQ, ENPH, FSLR & SEDG all had return gains over 100%.
 
+When running the code for 2018 (0.08 seconds runtime), the results told a different story:
 
+### 2018:
+1. All stocks produced a negative return, with the exception of ENPH (81.9%) and RUN (84%).
+2. ENPH amd RUN also have the top 2 in total daily volume.
+3. DQ, FSLR, JKS, SPWR all had losses of over -35%.
+
+Based on these results, I might personally want to invest in DQ and SEDG based on the difference in their gains/losses. DQ had almost a 200% return in 2017 compared to a -62.6% in 2018. Lets hope for a better 2019. SEDG exceeded expectations in 2017 and gained 184.5% in returns, compared to a -7.8% loss in 2018.
+
+Hopefully his family does not lose all their money.
 
 ### **Challenges**
-The first thing that I will say is every challenge I encountered was fixed by a Google Search. I'm realizing how important the context is when you are searching for answers. This was very helpful and helped me learn. 
-
-I struggled at first with Pivot tables, however they quickly became easier for me after some practice and knowing how to look at the data to make sure you are answering the correct questions.
-
-I especially enjoyed learning about the different Excel formulas and applying them to the analysis. Excel makes math very easy, as long as you are entering in your code correctly!
-
-### **Results**
-Theater Outcomes by Launch Date
-- The highest amount of successful campaigns in the Theater category were launched in May.
-- The fewest successful campaigns in the Theater category launched in Decemeber.
-
-Outcomes Based on Goals
-
-- The campaigns that failed had had higher goals that could not be met.
 
 
-It would be interesting to see which of these are still active and profiting, which could be used in another analysis in itself. 
 
-I think it's important to look at the Percent funded and Average Donation size as well. A pivot table could be created to show average donation size for successful vs failed campaigns. I believe it would also be important to show the average percent of funding for successful campaigns.
-
-I noticed there is a 'Staff Pick' column in the spreadsheet as well. You could use this to not only filter out successful campaigns, but to go even further and only include those that were picked by staff.
