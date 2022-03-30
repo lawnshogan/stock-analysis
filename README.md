@@ -1,5 +1,5 @@
 <p align="center">
-    Stock-Analysis - Delivarable 2
+    Stock-Analysis (Delivarable 2)
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
     2. What is the goal and possible outcomes?
     3. What pieces of data can help build toward and obtain our goal(s)?
 
-- Steve wants to find the total daily volume and yearly return for each stock. It's important that Steve can interact with the spreadsheet in order to obtain the data from 2017 or 2018.
+- Steve wants to find the total daily volume and yearly return for each stock. It's important that Steve can interact with the spreadsheet in order to obtain the data from 2017 or 2018. His families financial future is in my hands, so I better create an accurate analysis.
 
-### **Analysis**
+##### **Analysis**
 This was personally a learning curve assignment because I had never used VBA in this way before, so I carefully worked through every step. 
 
 First step was creating a module and starting a subroutine.
@@ -57,18 +57,25 @@ We now want to create a script that increases the current tickerVolumes (stock t
 </p>
 
 
-
-
-
-
-
-
-
-From here, Louise needed to know about the outcomes based on goals. Creating a new table, I was able to create ranges and use the =Countifs formula to create a summary of outcomes based on pledged dollars for 'play' related Kickstarter Campaigns.
+With that being said, Steve is not going to care about our code. Steve is looking for cold hard results that are easy to read and interpret.
+- When the code is entered, a pop-up instructs the user to choose what year they wish to get results for.
+- Enter 2017 and the following results appear:
 
 <p align="center">
-  <img src="https://github.com/lawnshogan/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png" width="700"/>
+  <img src="https://github.com/lawnshogan/stock-analysis/blob/main/VBA_Challenge_2017.png" width="700"/>
 </p>
+
+- Run the script again and enter 2018 instead:
+
+<p align="center">
+  <img src="https://github.com/lawnshogan/stock-analysis/blob/main/VBA_Challenge_2018.png" width="700"/>
+</p>
+
+### **Results**
+
+
+
+
 
 ### **Challenges**
 The first thing that I will say is every challenge I encountered was fixed by a Google Search. I'm realizing how important the context is when you are searching for answers. This was very helpful and helped me learn. 
