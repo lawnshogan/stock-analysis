@@ -20,8 +20,8 @@ This was personally a learning curve assignment because I had never used VBA in 
 First step was creating a module and starting a subroutine.
 
 Within this subroutine, it's important to activate our spreadsheet for the analysis and format your analysis spreadsheet (titles). The Cell and Range were used to assign values to specific cells.
-                  - I wanted the title in 'A1' to reflect what year was being shown based on what data was active.
-                  -  Range("A1").Value = "All Stocks (" + yearValue + ")"
+- I wanted the title in 'A1' to reflect what year was being shown based on what data was active.
+- Range("A1").Value = "All Stocks (" + yearValue + ")"
 
 
 
