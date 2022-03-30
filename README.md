@@ -3,7 +3,7 @@ Module 2 for Data Science Bootcamp - VBA Scripting
 
 
 
-# Stock Analysis - Deliverable 2
+### Stock Analysis - Deliverable 2
 ###  **Project Overview**
 - Steve needs help analyzing stock data from 2017 and 2018. His parents want to invest in one, Steve wants to make sure they are investing their money based on facts and supporting evidence. He's sent you the data to begin the analysis, which will require the use of VBA scripting. The spreadsheet contains data regarding the ticker, Date, Open, Close, High, Low, Adj Close and Volume.
 
@@ -40,7 +40,10 @@ We now want to create a script that increases the current tickerVolumes (stock t
 
 **3a)** Increase volume for current ticker
 
-**3b)** Check the current 
+**3b)** Check if the current row is the **first** with tickerIndex. If it is, then assign **Start Price**
+
+**3c)** Do the same as 3b, however for the **last row**, then assign a **Ending Price**
+
 
 
 With these questions in mind, we can begin filtering our data and set parameters that allow us to draw conclusions. **[Pivot Tables](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)** are a great way of setting parameters and summarizing data in an efficient manner. In addition to this, **[Pivot Charts](https://support.microsoft.com/en-us/office/create-a-pivotchart-c1b1e057-6990-4c38-b52b-8255538e7b1c)** are a great way of visualizing pivot tables, which is important in finding patterns.
