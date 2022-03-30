@@ -52,6 +52,10 @@ We now want to create a script that increases the current tickerVolumes (stock t
 
 **4)** Finally, it's time to Loop through the arrays to output the Ticker, Total Daily Volume, and Return.
 
+## <p align="center">
+   Final Code
+</p>
+
 <p align="center">
   <img src="https://github.com/lawnshogan/stock-analysis/blob/main/Code%20Block%20VBA.png" width="700"/>
 </p>
