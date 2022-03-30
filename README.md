@@ -1,9 +1,10 @@
 <p align="center">
     Stock-Analysis - Delivarable 2
-    Module 2 for Data Science Bootcamp - VBA Scripting
 </p>
 
-
+<p align="center">
+    Module 2 for Data Science Bootcamp - VBA Scripting
+</p>
 
 
 
