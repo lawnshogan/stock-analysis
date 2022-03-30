@@ -46,13 +46,15 @@ We now want to create a script that increases the current tickerVolumes (stock t
 
 **3d)** Used to increase the tickerIndex by 1 when the next cell ticker doesn't match current cell ticker 
 
-**4)**Fianlly, it's time to Loop through the arrays to output the Ticker, Total Daily Volume, and Return.
+**4)**Finally, it's time to Loop through the arrays to output the Ticker, Total Daily Volume, and Return.
 
 
 
-With these questions in mind, we can begin filtering our data and set parameters that allow us to draw conclusions. **[Pivot Tables](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)** are a great way of setting parameters and summarizing data in an efficient manner. In addition to this, **[Pivot Charts](https://support.microsoft.com/en-us/office/create-a-pivotchart-c1b1e057-6990-4c38-b52b-8255538e7b1c)** are a great way of visualizing pivot tables, which is important in finding patterns.
 
-I was able to use these tools in my analysis to filter by country & category/subcategory to summarize and visualize the number of failed, canceled and successful. Now that I practiced comparing outcomes to categories/subcategories, it was time to compare outcomes based on the launch date using the same methods, using months on the x-axis.
+
+
+
+
 
 <p align="center">
   <img src="https://github.com/lawnshogan/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png" width="700"/>
