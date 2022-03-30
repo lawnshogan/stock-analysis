@@ -52,8 +52,8 @@ We now want to create a script that increases the current tickerVolumes (stock t
 
 **4)** Finally, it's time to Loop through the arrays to output the Ticker, Total Daily Volume, and Return.
 
-## <p align="center">
-   Final Code
+   <p align="center">
+   **Final Code**
 </p>
 
 <p align="center">
