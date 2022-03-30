@@ -26,7 +26,7 @@ Within this subroutine, it's important to activate our spreadsheet for the analy
 Once this formatted, I moved onto creating an array of all the tickers in column A from each sheet.
 - I then used a ROWcount (found online) to loop over this column.
 
-###                                              **The fun begins...**
+####                                              **The fun begins...**
 
 **1a)** This portion of the code uses Dim to assign variable 0 to tickerIndex as an Integer since it's a whole number.
 
@@ -43,6 +43,10 @@ We now want to create a script that increases the current tickerVolumes (stock t
 **3b)** Check if the current row is the **first** with tickerIndex. If it is, then assign **Start Price**
 
 **3c)** Do the same as 3b, however for the **last row**, then assign a **Ending Price**
+
+**3d)** Used to increase the tickerIndex by 1 when the next cell ticker doesn't match current cell ticker 
+
+**4)**Fianlly, it's time to Loop through the arrays to output the Ticker, Total Daily Volume, and Return.
 
 
 
