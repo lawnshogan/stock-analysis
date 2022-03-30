@@ -18,7 +18,7 @@
 
 - Steve wants to find the total daily volume and yearly return for each stock. It's important that Steve can interact with the spreadsheet in order to obtain the data from 2017 or 2018. His families financial future is in my hands, so I better create an accurate analysis.
 
-##### **Analysis**
+## **Analysis**
 This was personally a learning curve assignment because I had never used VBA in this way before, so I carefully worked through every step. 
 
 First step was creating a module and starting a subroutine.
