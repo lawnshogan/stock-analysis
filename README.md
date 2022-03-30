@@ -1,12 +1,12 @@
 <p align="center">
-    Stock-Analysis
+    Stock-Analysis - Delivarable 2
+    Module 2 for Data Science Bootcamp - VBA Scripting
 </p>
 
-Module 2 for Data Science Bootcamp - VBA Scripting
 
 
 
-### Stock Analysis - Deliverable 2
+
 ###  **Project Overview**
 - Steve needs help analyzing stock data from 2017 and 2018. His parents want to invest in one, Steve wants to make sure they are investing their money based on facts and supporting evidence. He's sent you the data to begin the analysis, which will require the use of VBA scripting. The spreadsheet contains data regarding the ticker, Date, Open, Close, High, Low, Adj Close and Volume.
 
