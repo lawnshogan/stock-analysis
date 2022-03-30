@@ -23,15 +23,23 @@ Within this subroutine, it's important to activate our spreadsheet for the analy
 - I wanted the title in 'A1' to reflect what year was being shown based on what data was active.
 - Range("A1").Value = "All Stocks (" + yearValue + ")"
 
+Once this formatted, I moved onto creating an array of all the tickers in column A from each sheet.
+- I then used a ROWcount (found online) to loop over this column.
 
+**1a)** This portion of the code uses Dim to assign variable 0 to tickerIndex as an Integer since it's a whole number.
 
+**1b)** Set three output arrays for volume, starting and ending prices.
 
+**2a)** Create a loop to inilialize the tickerVolumes to zero.
 
-As I got a feel for the data, questions started becoming clear:
-- What country should the analysis be based on?
-- What category/subcategory should we focus on?
-- How often did successful (or failed) campaigns reach their goal?
-- What time of the year are the majority of successful/failed campaigns launched?
+**2b)** Loop over all the rows in the spreadsheet using RowCount
+
+We now want to create a script that increases the current tickerVolumes (stock ticker volume) variable and adds the ticker volume for the current stock ticker.
+
+**3a)** Increase volume for current ticker
+
+**3b)** Check the current 
+
 
 With these questions in mind, we can begin filtering our data and set parameters that allow us to draw conclusions. **[Pivot Tables](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)** are a great way of setting parameters and summarizing data in an efficient manner. In addition to this, **[Pivot Charts](https://support.microsoft.com/en-us/office/create-a-pivotchart-c1b1e057-6990-4c38-b52b-8255538e7b1c)** are a great way of visualizing pivot tables, which is important in finding patterns.
 
