@@ -1,5 +1,5 @@
 <p align="center">
-    Stock-Analysis (Delivarable 2)
+    Stock-Analysis (Deliverable 2)
 </p>
 
 <p align="center">
